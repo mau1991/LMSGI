@@ -1,0 +1,23 @@
+<DOCType html>
+<html>
+    <head>
+        <meta charset=utf-8"/>
+    </head>
+        <body>
+            <ul>
+                <li>Actories:</li>
+            </ul>    
+                <ul style="list-style:circle">
+                    <li>Brad Pitt</li>
+                    <li>Jared Leto</li>
+                    <li>Elliot Page<li>
+                </ul>
+            <ul>
+                <li>Directores:</li>
+            </ul>
+            <ul style="list-style:circle">
+                <li>Quentin Tarantino</li>
+                <li>Sofia Coppola</li>              
+            </ul>
+        </body>
+</html>
